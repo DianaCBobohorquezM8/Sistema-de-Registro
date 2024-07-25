@@ -8,5 +8,5 @@ Para ejecutar el sistema debes poner:
 
 ` ` ` npm install react ` ` ` 
 
-SISTEMA DE REGISTRO 2
+SISTEMA DE REGISTRO 2  segunda practica
 
