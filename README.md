@@ -11,4 +11,6 @@ Para ejecutar el sistema debes poner:
 SISTEMA DE REGISTRO 2  segunda practica
 
 ``` Logs``` 
+Practicando comando principales Git
+
 
